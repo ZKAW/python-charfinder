@@ -1,6 +1,9 @@
 # python-charset
 This is a simple reverse and non-reverse char finder for python 2.7 and 3.x
 
+Download:
+`git clone https://github.com/ZKAW/python-charset`
+
 Usage:
 `python charset.py`
 or
