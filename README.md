@@ -1,4 +1,4 @@
-# Cross-version python charset
+# Cross-version python chartable
 This is a simple reverse and non-reverse char finder for python 2.7 and 3.x
 
 Download:
