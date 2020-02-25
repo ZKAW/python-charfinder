@@ -5,7 +5,8 @@ while True:
     except:
         char = input("Character or ASCII ID: ")
     try:
-        print(str(chr(int(char)))+": "+char)
+        num = int(char)
+        print("{0}: {1}".format(num, chr(num)))
     except:
         for i in range(1,250):
             number+=1
