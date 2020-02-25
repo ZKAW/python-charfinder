@@ -1,9 +1,9 @@
 while True:
     number = 0
     try:
-        char = raw_input("Caractere ou code ASCII: ")
+        char = raw_input("Character or ASCII ID: ")
     except:
-        char = input("Caractere ou code ASCII: ")
+        char = input("Character or ASCII ID: ")
     try:
         print(str(chr(int(char)))+": "+char)
     except:
